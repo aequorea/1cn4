@@ -1,0 +1,14 @@
+1yfp steps (using pymol)
+------------------------
+
+download 1cn4.pdb from rcsb.org
+load 1cn4.pdb in pymol
+type findSurfaceResidues
+save atoms as 1cn4_exposed_atm.pdb
+save residues as 1cn4_exposed_res.pdb
+select helix, ss H
+save as 1cn4_helix.pdb
+select sheet, ss S
+save as 1cn4_sheet.pdb
+run gly20.py
+fix up incomplete sidechains as needed using mutate wizard and repeat above
