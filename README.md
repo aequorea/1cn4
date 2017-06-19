@@ -7,7 +7,7 @@ Glycosylating erythropoetin
 
 Erythropoetin stimulates red blood cell production. It is used as a treatment for anemia. Potential glycosylation sites are shown in red. Predictions may be found in gly.out. This structure has three chains. It has erythropoetin bound to two copies of its receptors. Erythropoetin is chain C, so we only are interested in the predictions for chain C.
 
-This molecule has been studied extensively in Elliott et al. (DOI 10.1074/jbc.M311095200). In all they tried on the order of 50 different sites for the introduction of N-linked glycosylation consensus sequences or sequons, which gives us significant data to compare predictions to. 
+This molecule has been studied extensively in Elliott et al. (DOI 10.1074/jbc.M311095200). In all they tried close to 50 different sites for the introduction of N-linked glycosylation consensus sequences or sequons, which gives us significant data to compare predictions to. 
 
 Experiments were performed introducting sequons at 21 of 25 positions on the C-D loop which are residues 113-137. Of these, positions 114, 115, 116, and 130 contained N-linked carbohydrate.
 
